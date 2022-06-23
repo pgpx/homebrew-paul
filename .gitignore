@@ -1,0 +1,19 @@
+# Do not commit locally-produced files (used only during development to test the scripts)
+/temp
+/tmp
+
+# OS-specific
+.DS_Store
+
+# IntelliJ
+/.externalToolBuilders
+/.idea/
+/*.iml
+/*.ipr
+/*.iws
+
+# Eclipse
+/.classpath
+/.project
+/.settings/
+/.envrc
