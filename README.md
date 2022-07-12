@@ -1,4 +1,4 @@
-# homebrew-fpaul
+# homebrew-paul
 
 Misc formula
 
